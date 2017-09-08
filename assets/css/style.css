@@ -1,0 +1,67 @@
+body {
+    background: url("../img/background5notex.png");
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+ul{
+    text-shadow: 1px 1px #000000;
+}
+
+P{
+    text-shadow: 1px 1px #000000;
+}
+
+h2{
+    text-shadow: 1px 1px #000000;
+}
+a{
+    color: #9090FF
+}
+
+section.Gegevens ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px
+}
+
+section.Gegevens{
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    top: 100px;
+    right: 6px;
+}
+section.Joey{
+    text-align: center;
+    color: #FFFFFF;
+    width: 1900px;
+    height: 60px;
+    overflow: hidden;
+    background-color: rgba(218, 218, 218, 0.14);
+    align-self: auto;
+}
+
+section.Over{
+    text-align: left;
+    width: 350px;
+    height: 300px;
+}
+
+section.contact{
+    width: 340px;
+    height: 250px;
+    position: absolute;
+    bottom: 80px;
+    right: 6px;
+}
+section.Kennis{
+    width: 400px;
+    height: 300px;
+}
+
+div.img{
+    position: absolute;
+    bottom: 400px;
+    left: 230px;
+}
